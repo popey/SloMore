@@ -78,3 +78,7 @@ find /bin | slomore
 ```
 
 ![Slow down output](./gifs/findpipeslomore2.gif)
+
+## Caveats
+
+I am an open-source enthusiast and self-taught coder creating projects driven by curiosity and a love for problem-solving. The code may have bugs or sharp edges. Kindly let me know if you find one, via an [issue](https://github.com/popey/slomore/issues). Thanks.
